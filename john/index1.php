@@ -16,7 +16,7 @@ $a = 10;
 $isLoggedIn = false;
 
 
-$sum  = $a + $b;
+// $sum  = $a + $b;
 
 // echo($sum);
 // echo "<br>";
